@@ -1,0 +1,2 @@
+# Decimal-to-Binary-Convertor---Python
+ The program  accepts the two decimal number which is between 0 to 255 and the value which is  enter are converted into 8 bit binary number. The program does the addition of two  binary number and shows output and ask us to continue yes or no.  For the sum of two binary number in reverse order binaryadder is called from module byteadder and at last GreetingAtEnd  function is called from module Greeting.
